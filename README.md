@@ -37,13 +37,4 @@ This is a Python-based Coffee Machine simulation project built as part of the �
 	•	Console interaction & input handling
 
 
-
-What would you like? (espresso☕️/latte🧋/cappuccino︎☕️🍶): latte
-Please insert your coins.
-How many quarters: 12
-How many dimes: 12
-How many nickles: 1
-How many pennies: 1
-Here is change: $1.76
-Here is your latte ☕️, Have a nice day!
  
